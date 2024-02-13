@@ -1,0 +1,1663 @@
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+WARNING:root:The definition "meow" already exists. Try again:
+INFO:root:The pair ("dog":"woof") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": meow
+INFO:root:Wrong. The right answer is "woof", but your definition is correct for "cat".
+INFO:root:Print the definition of "cat": wapapapapow
+INFO:root:Wrong. The right answer is "meow".
+INFO:root:Removing a flashcard.
+WARNING:root:Can't remove "badger": there is no such card.
+INFO:root:Removing a flashcard.
+INFO:root:The card "cat" has been removed.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("horse":"neigh") has been added.
+INFO:root:Exporting flashcards.
+INFO:root:2 cards have been saved.
+INFO:root:Importing flashcards.
+WARNING:root:File was not found to import from.
+INFO:root:Importing flashcards.
+INFO:root:2 cards have been loaded.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "horse": neigh
+INFO:root:Correct!
+INFO:root:Saving log.
+INFO:root:The log has been saved.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Canada":"Ottawa") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Japan":"Tokyo") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Poland":"Warsaw") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 38 errors answering it.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 38 errors answering it.
+INFO:root:Resetting flashcard statistics.
+INFO:root:Card statistics have been reset.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+INFO:root:The pair ("dog":"meow") has been added.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+WARNING:root:The definition "meow" already exists. Try again:
+INFO:root:The pair ("dog":"woof") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": meow
+INFO:root:Wrong. The right answer is "woof", but your definition is correct for "cat".
+INFO:root:Print the definition of "cat": wapapapapow
+INFO:root:Wrong. The right answer is "meow".
+INFO:root:Removing a flashcard.
+WARNING:root:Can't remove "badger": there is no such card.
+INFO:root:Removing a flashcard.
+INFO:root:The card "cat" has been removed.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("horse":"neigh") has been added.
+INFO:root:Exporting flashcards.
+INFO:root:2 cards have been saved.
+INFO:root:Importing flashcards.
+WARNING:root:File was not found to import from.
+INFO:root:Importing flashcards.
+INFO:root:2 cards have been loaded.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": woof
+INFO:root:Correct!
+INFO:root:Saving log.
+INFO:root:The log has been saved.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Canada":"Ottawa") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Japan":"Tokyo") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Poland":"Warsaw") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 37 errors answering it.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 37 errors answering it.
+INFO:root:Resetting flashcard statistics.
+INFO:root:Card statistics have been reset.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+WARNING:root:The definition "meow" already exists. Try again:
+INFO:root:The pair ("dog":"woof") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": meow
+INFO:root:Wrong. The right answer is "woof", but your definition is correct for "cat".
+INFO:root:Print the definition of "cat": wapapapapow
+INFO:root:Wrong. The right answer is "meow".
+INFO:root:Removing a flashcard.
+WARNING:root:Can't remove "badger": there is no such card.
+INFO:root:Removing a flashcard.
+INFO:root:The card "cat" has been removed.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("horse":"neigh") has been added.
+INFO:root:Exporting flashcards.
+INFO:root:2 cards have been saved.
+INFO:root:Importing flashcards.
+WARNING:root:File was not found to import from.
+INFO:root:Importing flashcards.
+INFO:root:2 cards have been loaded.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": woof
+INFO:root:Correct!
+INFO:root:Saving log.
+INFO:root:The log has been saved.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Canada":"Ottawa") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Japan":"Tokyo") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Poland":"Warsaw") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 35 errors answering it.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 35 errors answering it.
+INFO:root:Resetting flashcard statistics.
+INFO:root:Card statistics have been reset.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exporting flashcards.
+INFO:root:0 cards have been saved.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Texas":"Austin") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Florida":"Tallahassee") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("California":"Sacramento") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Florida": Austin
+INFO:root:Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".
+INFO:root:Print the definition of "Texas": Austin
+INFO:root:Correct!
+INFO:root:Print the definition of "California": Austin
+INFO:root:Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+WARNING:root:The definition "meow" already exists. Try again:
+INFO:root:The pair ("dog":"woof") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "cat": woof
+INFO:root:Wrong. The right answer is "meow", but your definition is correct for "dog".
+INFO:root:Print the definition of "dog": wapapapapow
+INFO:root:Wrong. The right answer is "woof".
+INFO:root:Removing a flashcard.
+WARNING:root:Can't remove "badger": there is no such card.
+INFO:root:Removing a flashcard.
+INFO:root:The card "cat" has been removed.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("horse":"neigh") has been added.
+INFO:root:Exporting flashcards.
+INFO:root:2 cards have been saved.
+INFO:root:Importing flashcards.
+WARNING:root:File was not found to import from.
+INFO:root:Importing flashcards.
+INFO:root:2 cards have been loaded.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "horse": neigh
+INFO:root:Correct!
+INFO:root:Saving log.
+INFO:root:The log has been saved.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Canada":"Ottawa") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Japan":"Tokyo") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Poland":"Warsaw") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Poland". You have 38 errors answering it.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Poland". You have 38 errors answering it.
+INFO:root:Resetting flashcard statistics.
+INFO:root:Card statistics have been reset.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exporting flashcards.
+INFO:root:0 cards have been saved.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Texas":"Austin") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Florida":"Tallahassee") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("California":"Sacramento") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "California": Austin
+INFO:root:Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".
+INFO:root:Print the definition of "Texas": Austin
+INFO:root:Correct!
+INFO:root:Print the definition of "Florida": Austin
+INFO:root:Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Removing a flashcard.
+INFO:root:The card "Texas" has been removed.
+INFO:root:Removing a flashcard.
+INFO:root:The card "Florida" has been removed.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "California": Sacramento
+INFO:root:Correct!
+INFO:root:Print the definition of "California": Austin
+INFO:root:Wrong. The right answer is "Sacramento".
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+WARNING:root:The definition "meow" already exists. Try again:
+INFO:root:The pair ("dog":"woof") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "cat": woof
+INFO:root:Wrong. The right answer is "meow", but your definition is correct for "dog".
+INFO:root:Print the definition of "dog": wapapapapow
+INFO:root:Wrong. The right answer is "woof".
+INFO:root:Removing a flashcard.
+WARNING:root:Can't remove "badger": there is no such card.
+INFO:root:Removing a flashcard.
+INFO:root:The card "cat" has been removed.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("horse":"neigh") has been added.
+INFO:root:Exporting flashcards.
+INFO:root:2 cards have been saved.
+INFO:root:Importing flashcards.
+WARNING:root:File was not found to import from.
+INFO:root:Importing flashcards.
+INFO:root:2 cards have been loaded.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": woof
+INFO:root:Correct!
+INFO:root:Saving log.
+INFO:root:The log has been saved.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Canada":"Ottawa") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Japan":"Tokyo") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Poland":"Warsaw") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 37 errors answering it.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Canada". You have 37 errors answering it.
+INFO:root:Resetting flashcard statistics.
+INFO:root:Card statistics have been reset.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exporting flashcards.
+INFO:root:0 cards have been saved.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Texas":"Austin") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Florida":"Tallahassee") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("California":"Sacramento") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "California": Austin
+INFO:root:Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".
+INFO:root:Print the definition of "Texas": Austin
+INFO:root:Correct!
+INFO:root:Print the definition of "Florida": Austin
+INFO:root:Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Removing a flashcard.
+INFO:root:The card "Texas" has been removed.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("cat":"meow") has been added.
+INFO:root:Adding a new flashcard.
+WARNING:root:The card "cat" already exists. Try again:
+WARNING:root:The definition "meow" already exists. Try again:
+INFO:root:The pair ("dog":"woof") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "cat": woof
+INFO:root:Wrong. The right answer is "meow", but your definition is correct for "dog".
+INFO:root:Print the definition of "dog": wapapapapow
+INFO:root:Wrong. The right answer is "woof".
+INFO:root:Removing a flashcard.
+WARNING:root:Can't remove "badger": there is no such card.
+INFO:root:Removing a flashcard.
+INFO:root:The card "cat" has been removed.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("horse":"neigh") has been added.
+INFO:root:Exporting flashcards.
+INFO:root:2 cards have been saved.
+INFO:root:Importing flashcards.
+WARNING:root:File was not found to import from.
+INFO:root:Importing flashcards.
+INFO:root:2 cards have been loaded.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "dog": woof
+INFO:root:Correct!
+INFO:root:Saving log.
+INFO:root:The log has been saved.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Canada":"Ottawa") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Japan":"Tokyo") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Poland":"Warsaw") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Print the definition of "Poland": Washington
+INFO:root:Wrong. The right answer is "Warsaw".
+INFO:root:Print the definition of "Japan": Washington
+INFO:root:Wrong. The right answer is "Tokyo".
+INFO:root:Print the definition of "Canada": Washington
+INFO:root:Wrong. The right answer is "Ottawa".
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Poland". You have 37 errors answering it.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Finding the hardest flashcard.
+INFO:root:The hardest card is "Poland". You have 37 errors answering it.
+INFO:root:Resetting flashcard statistics.
+INFO:root:Card statistics have been reset.
+INFO:root:Finding the hardest flashcard.
+INFO:root:There are no cards with errors.
+INFO:root:Exiting the flashcard handler.
+INFO:root:Exporting flashcards.
+INFO:root:0 cards have been saved.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Texas":"Austin") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("Florida":"Tallahassee") has been added.
+INFO:root:Adding a new flashcard.
+INFO:root:The pair ("California":"Sacramento") has been added.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "California": Austin
+INFO:root:Wrong. The right answer is "Sacramento", but your definition is correct for "Texas".
+INFO:root:Print the definition of "Texas": Austin
+INFO:root:Correct!
+INFO:root:Print the definition of "Florida": Austin
+INFO:root:Wrong. The right answer is "Tallahassee", but your definition is correct for "Texas".
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Removing a flashcard.
+INFO:root:The card "Texas" has been removed.
+INFO:root:Removing a flashcard.
+INFO:root:The card "Florida" has been removed.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "California": Sacramento
+INFO:root:Correct!
+INFO:root:Print the definition of "California": Austin
+INFO:root:Wrong. The right answer is "Sacramento".
+INFO:root:Exiting the flashcard handler.
+INFO:root:Importing flashcards.
+INFO:root:3 cards have been loaded.
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
+INFO:root:Asking questions.
+INFO:root:Print the definition of "Texas": Austin
+INFO:root:Correct!
+INFO:root:Exporting flashcards.
+INFO:root:3 cards have been saved.
